@@ -11,3 +11,5 @@
 ### Purpose of the exercise:
 
 Practicing more advanced notions of Laravel (authentication, hashing).
+
+Create an app that allows filtering by access.
